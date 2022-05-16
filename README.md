@@ -1,4 +1,4 @@
-# DELL 3050 MICRO Monterey with DW1560 
+# DELL 3050 MICRO Kabylake - Opencore with Monterey & DW1560 
 
 ### Computer Spec:
 
