@@ -2,7 +2,7 @@
 
 ### Computer Spec:
 
-| Component        | Brank                              |
+| Component        | Hardware                              |
 | ---------------- | ---------------------------------- |
 | CPU              | i3 7100T        |
 | iGPU             | Intel® HD Graphics 630         |    
