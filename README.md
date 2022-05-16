@@ -18,7 +18,7 @@
 
 - [x] Intel HD 630 iGPU + HDMI AUDIO/HDMI/DP VIDEO
 - [x] All USB Ports 
-- [x] Sleep / Wake
+- [x] Sleep / Wake (some usb 3.0 attached devices sometimes prevent sleep/wake)
 - [x] Wi-Fi Dell/Broadcom DW1560
 - [x] Bluetooth Dell/Broadcom DW1560
 - [x] NVRAM
