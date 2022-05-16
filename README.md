@@ -1,4 +1,4 @@
-# DELL 3050 MICRO 
+# DELL 3050 MICRO Monterey with DW1560 
 
 ### Computer Spec:
 
